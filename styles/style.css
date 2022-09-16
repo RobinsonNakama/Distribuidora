@@ -55,16 +55,8 @@ body {
 .foto4 {
     width: 80%;
     height: 40%;
+font-family: gloomy;
 
 
+}
 
-}
-div{
-    font-family: gloomy;
-}
-@media screen and (width: 1000px){
-.instagram, .whatsapp{
-    margin-bottom: 40%;
-}
-    
-}
